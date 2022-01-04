@@ -1,5 +1,11 @@
+import ExpenseCard from "components/ExpenseCard";
+
 function App() {
-    return <div>Hello, React. I'm back!</div>;
+  return (
+    <div>
+      <ExpenseCard />
+    </div>
+  );
 }
 
 export default App;
