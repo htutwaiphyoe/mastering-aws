@@ -1,4 +1,4 @@
-import ExpenseCard from "components/ExpenseCard";
+import ExpenseCard from "components/ExpenseItem";
 
 function App() {
   return (
