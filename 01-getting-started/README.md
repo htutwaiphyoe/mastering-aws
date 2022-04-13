@@ -53,3 +53,9 @@ Summaries and Refreshers (Optimizing your time)
 
 1. JavaScript refreshers
 2. ReactJS summary
+
+## Taking approach
+
+Standard approach => entire course, start to end, step by step
+
+Summary approach => skip to Summary module
