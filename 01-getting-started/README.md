@@ -31,3 +31,25 @@ ReactJS - lean and focused component based UI library. Certain features (eg. rou
 AngularJS - complete component based UI framework, packed with features, use typescript, can be overkill for smaller projects
 
 VueJS - in between of React and Angular, component based UI framework, includes most core features
+
+## Course outline
+
+Introduction key features (Basic & Foundation)
+
+1. Components & Building UI
+2. Working with events
+3. State management
+4. Styling
+5. React hooks introduction
+
+Advanced Concepts (Building for production)
+
+1. Advanced hooks
+2. React context api and Redux
+3. Form, Http requests and custom hooks
+4. Routing, deployment
+
+Summaries and Refreshers (Optimizing your time)
+
+1. JavaScript refreshers
+2. ReactJS summary
