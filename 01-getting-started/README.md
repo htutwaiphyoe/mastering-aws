@@ -23,3 +23,11 @@ For react, it is all about components. It is all about splitting application int
 React can be used to control parts of html pages of entire pages. Widget approach on a multi-page application, some pages are still rendered and served by a server.
 
 React can also be used to control entire frontend of web application. This is so-called SPA (single-page application) approach. Server only sends one empty html page on initial request and react takes over and controls the UI.
+
+## Alternative to ReactJS
+
+ReactJS - lean and focused component based UI library. Certain features (eg. routing) are added via community packages
+
+AngularJS - complete component based UI framework, packed with features, use typescript, can be overkill for smaller projects
+
+VueJS - in between of React and Angular, component based UI framework, includes most core features
