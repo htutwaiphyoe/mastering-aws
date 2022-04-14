@@ -66,3 +66,9 @@ Summary approach => skip to Summary module
 2. code along and practice
 3. debug errors and explore solutions
 4. help each other and learn together
+
+## Preparing tools
+
+1. VSCode
+2. Prettier
+3. Material Icon Theme
