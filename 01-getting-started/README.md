@@ -59,3 +59,10 @@ Summaries and Refreshers (Optimizing your time)
 Standard approach => entire course, start to end, step by step
 
 Summary approach => skip to Summary module
+
+## How to take course
+
+1. watch lecture videos
+2. code along and practice
+3. debug errors and explore solutions
+4. help each other and learn together
