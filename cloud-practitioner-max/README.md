@@ -10,15 +10,15 @@ Certified AWS Cloud Practitioner
 
 AWS => Amazon Web Services => A subsidiary of Amazon (amazon.com) => A cloud computing services provider
 
-Cloud computing => the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing
+Cloud computing => the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing (pay what you are using)
 
 AWS, Azure, Google Cloud => own and operate IT resources and infrastructure in their own data center distributing entire world
 
-Customers => use the cloud infrastructure => rent and use IT resources managed by AWS via its services => services are built on top of IT infrastructure, eg. AWS EC2, AWS Lambda
+Customers => use the cloud infrastructure from providers => rent and use IT resources managed by AWS via its services => services are built on top of IT infrastructure, eg. AWS EC2, AWS Lambda
 
-AWS provides dozens of services like database services, file storage services, data analytics services
+AWS provides dozens of services like database services, file storage services, data analytics services and customer can rent slides of them to cover cost, different slides with different hardware specifications
 
-AWS does heavy lifting
+AWS does heavy lifting, just click
 
 Flexible usage of compute power, no need to maintain own data center, only pay for the resources that are used
 
@@ -29,7 +29,7 @@ without cloud computing => companies need to own and operate own data center and
 Advantages
 
 1. full control of physical infrastructure and hardware
-2. know exactly what computers are (good for legal reasons)
+2. know exactly where computers and data are (good for legal reasons)
 
 Disadvantages
 
@@ -39,4 +39,5 @@ Disadvantages
 4. cannot react quickly to workloads (scalability)
 5. pay for idle resources (unnecessary cost)
 6. stuck to one or few locations of data center (have higher latency)
- 
+
+## 04. Cloud Advantage: Reliability
