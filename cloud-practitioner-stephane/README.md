@@ -13,3 +13,7 @@ course by `Stephane`
 ## 2. Cloud Computing
 
 ## 3. IAM (Identity and Access Management)
+
+## 4. EC2 Elastic Compute Cloud
+
+## 5. EBS Elastic Block Store
