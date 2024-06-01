@@ -1,5 +1,7 @@
 # IAM - Identity and Access Management
 
+## Introduction
+
 Global Service
 
 Root account created by default, should not be shared or used
@@ -11,3 +13,5 @@ Users and Groups can be assigned JSON documents called policies
 policies => permission of the users
 
 Least privilege principle => not giving permission than a user needs
+
+Create Administrator account
