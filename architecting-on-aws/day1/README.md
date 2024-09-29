@@ -1,4 +1,4 @@
-# Module 1 (28.9.2024)
+# Day 1 (28.9.2024)
 
 ## Module Content
 

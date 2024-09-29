@@ -2,4 +2,9 @@
 
 ## Table of contents
 
-- Module 1
+- Day 1
+  - Introduction
+- Day 2
+  - Account Setup
+  - S3
+  - Billing & Cost Management
