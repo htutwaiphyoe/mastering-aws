@@ -1,0 +1,19 @@
+database: &database
+  host: db.example.net
+  port: 3306
+  user: admin
+  password: admin
+  enabled: true
+  legacy: no
+
+development: &database
+  <<: *database
+  host: localhost
+
+staging: &database
+  <<: *database
+  host: staging
+
+production: &database
+  <<: *database
+  host: production
