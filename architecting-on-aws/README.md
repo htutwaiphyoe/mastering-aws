@@ -13,3 +13,5 @@
 - Day 4 (6.10.2024)
   - S3 (Lab)
   - DSL - JSON & YAML (Theory + Lab)
+- Day 5 (12.10.2024)
+  - IAM (Theory)
