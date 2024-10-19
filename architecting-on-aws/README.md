@@ -19,3 +19,6 @@
   - IAM (Theory continued)
   - AWS Organization (Lab)
   - IAM Identity Center (Lab)
+- Day 7 (19.10.2024)
+  - IAM (Lab)
+  
