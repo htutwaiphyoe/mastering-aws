@@ -21,4 +21,7 @@
   - IAM Identity Center (Lab)
 - Day 7 (19.10.2024)
   - IAM (Lab)
+- Day 8 (20.10.2024)
+  - Binary to decimal
+  - IP Address
   
