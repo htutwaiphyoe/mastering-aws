@@ -24,4 +24,13 @@
 - Day 8 (20.10.2024)
   - Binary to decimal
   - IP Address
-  
+- Day 9 (26.10.2024)
+  - Compute Layer (Theory)
+    - EC2
+    - EBS
+    - EFS
+- Day 10 (27.10.2024)
+  - Compute Layer (Lab)
+    - EC2
+    - EBS
+    - EFS
