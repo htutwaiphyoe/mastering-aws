@@ -38,5 +38,3 @@
 - Day 12 (3.11.2024)
   - Lab (Continue)
   - Module 5: Network Layer 1(Theory)
-- Day 13 (9.11.2024)
-  - VPC Lab (Continue)
