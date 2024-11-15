@@ -40,3 +40,8 @@
   - Module 5: Network Layer 1(Theory)
 - Day 13 (9.11.2024)
   - VPC Lab (Continue)
+- Day 14 (10.11.2024)
+  - Module 6: Network Layer 2(Theory)
+  - VPC connection (Lab)
+- Day 15 (16.11.2024)
+  - VPC Transits Gateway (Lab)
