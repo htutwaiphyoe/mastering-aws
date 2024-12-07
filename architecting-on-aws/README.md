@@ -45,3 +45,5 @@
   - VPC connection (Lab)
 - Day 15 (16.11.2024)
   - VPC Transits Gateway (Lab)
+- Day 16 (7.12.2024)
+  - Module - 8 High Availability/Elasticity
